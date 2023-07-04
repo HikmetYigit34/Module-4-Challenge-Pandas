@@ -12,8 +12,8 @@ Here is how it should be on local machine.
 C:.
 ├───Other Directories...
 └───PyCitySchools
-    ├───Resources				                    This is not added to repo. But should be there for reading csv input
-    │   ├───schools_complete.csv		        This is not added to repo. But should be there for reading csv input
-    │   └───students_complete.csv		        This is not added to repo. But should be there for reading csv input
-    ├───City Schools Review Report.docx     This is Summary Report after Data Analysis
-    └───PyCitySchools_Hikmet_Yigit.ipynb	  This is Jupiter Notebook running for analysis
+    ├───Resources-------------------------This is not added to repo. But should be there for reading csv input
+    │   ├───schools_complete.csv----------This is not added to repo. But should be there for reading csv input
+    │   └───students_complete.csv---------This is not added to repo. But should be there for reading csv input
+    ├───City Schools Review Report.docx---This is Summary Report after Data Analysis
+    └───PyCitySchools_Hikmet_Yigit.ipynb--This is Jupiter Notebook running for analysis
